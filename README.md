@@ -1,2 +1,15 @@
-# public-profiles
-Public-facing profiles and materials for Creative Koalas, its projects, and key people.
+# 企业、项目及个人介绍（公开版本）
+
+> Company, Projects, and People: Public Profiles
+
+## 龚易明
+
+龚易明，2004年出生，2019年考入西安交通大学少年班，预科两年连续专业第一，2021年进入人工智能试验班，本科四年蝉联专业第一。
+
+2025年本科毕业后直博西安交大人工智能与机器人研究所，师从郑南宁院士。
+
+龚易明自中学起便是活跃的开源开发者和独立游戏制作人，发布多款单机游戏。
+
+2024年3月以19岁之龄入选奇绩创坛创业营，获30万美元投资意向。
+
+2025年3月创立武汉创意考拉科技有限公司，开发人工智能劳动力平台 PsyGo，并在 Intel AIGC 创新应用大赛中斩获三项大奖。
